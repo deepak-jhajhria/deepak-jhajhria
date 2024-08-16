@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, GSAP, Typescript,Express,Node.js ,GitHub**
+- 💬 Ask me about **HTML, CSS, Javascript, React, GSAP, Typescript,Vue ,GitHub**
 
 - 📫 How to reach me **deepakjhajhria4657@gmail.com**
 
