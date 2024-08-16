@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, MongoDB**
+- 🌱 I’m currently learning **Node.js, MongoDB**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, GSAP, Typescript,Express,Node.js ,GitHub**
 
